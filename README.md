@@ -1,4 +1,4 @@
-
+FITNESS TRACKING APP
 
 - Set up the project using React.
 - Added core components for the app:
