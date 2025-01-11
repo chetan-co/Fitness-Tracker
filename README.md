@@ -1,6 +1,6 @@
 FITNESS TRACKING APP
 
-- ## Overviwe Of Project
+- ## Overview Of Project
 - Set up the project using React.
 - Added core components for the app:
   - Header component for navigation.
